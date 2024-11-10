@@ -21,7 +21,7 @@ git clone https://github.com/ranolangari/My-personal-portfolio.git
 2. Navigate to project directory
 
 ```bash
-cd MY-personal-portfolio
+cd My-personal-portfolio
 ```
 
 ## Contact
