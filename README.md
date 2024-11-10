@@ -4,30 +4,11 @@
 
 Welcome to my personal portfolio website repository! This website showcases my professional work, skills, and experiences.
 
-## Overview
-
-This portfolio website is designed to:
-
-- Present my professional background
-- Showcase my projects and achievements
-- Provide contact information
-- Display my technical skills and expertise
-
-## Features
-
-- Responsive design
-- Project showcase
-- Skills section
-- Contact form
-- Professional experience
-- About me section
-
 ## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- [Add any other technologies you use]
 
 ## Setup
 
