@@ -1,44 +1,53 @@
-# vCard - Personal portfolio
+# My Personal Portfolio Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+> This project is built upon the excellent work of [codewithsadee's vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio), which I've forked and customized to create my own unique portfolio website.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+Welcome to my personal portfolio website repository! This website showcases my professional work, skills, and experiences.
 
-## Demo
+## Overview
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+This portfolio website is designed to:
 
-## Prerequisites
+- Present my professional background
+- Showcase my projects and achievements
+- Provide contact information
+- Display my technical skills and expertise
 
-Before you begin, ensure you have met the following requirements:
+## Features
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- Responsive design
+- Project showcase
+- Skills section
+- Contact form
+- Professional experience
+- About me section
 
-## Installing vCard
+## Technologies Used
 
-To install **vCard**, follow these steps:
+- HTML5
+- CSS3
+- JavaScript
+- [Add any other technologies you use]
 
-Linux and macOS:
+## Setup
+
+1. Clone the repository
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/ranolangari/My-personal-portfolio.git
 ```
 
-Windows:
+2. Navigate to project directory
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+cd MY-personal-portfolio
 ```
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+Feel free to reach out to me:
+📫 **Get in Touch:**
 
-## License
-
-MIT
+- 📧 Email: [langarirano@gmail.com](mailto:langarirano@gmail.com)
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/-Rano_Langari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranolangari/)
+- 🚀 GitHub: [![GitHub](https://img.shields.io/badge/-RanoLangari-gray?style=flat&logo=github)](https://github.com/RanoLangari)
